@@ -1,0 +1,3 @@
+http://www.mkyong.com/webservices/jax-rs/jersey-hello-world-example/
+http://www.vogella.com/articles/REST/article.html#first_project
+http://matthewturland.com/slides/jersey/
